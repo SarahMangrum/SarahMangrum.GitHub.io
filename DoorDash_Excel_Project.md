@@ -18,7 +18,6 @@ Using a modified version of a DoorDash-like case study given to potential data a
 The 2018 dataset of iFood yearly sales consists of 2,205 unique customer rows and 36 columns. Luckily, a data dictionary exists, so I could immediately ascertain what each column represented.
 
 
-### 2. You can add any images you'd like. 
 
 <img src="images/DataDictionary.png?raw=true"/>
 
