@@ -1,4 +1,4 @@
-### Burgers and Fries...Oh My!:  A Look at Food Delivery Sales
+# Burgers and Fries...Oh My!:  A Look at Food Delivery Sales
 
 From deep within the pit of my stomach arose a grumble that shook the foundation beneath my feet. I had been tirelessly studying and was in such a groove, I didn't want to have to stop and lose my momentum by rummaging through the refrigerator and cupboards looking for something to quell the hangry beast festering inside. So...what's a girl to do? Insert >> local food delivery service to the rescue!
 I ordered my favorite vegan burger and fries combo and in just under 30 minutes it was at my door and making its way into the cavernous pit of my empty stomach. This got me thinking...How many other people use food delivery services? What is their go-to meal? How much are people willing to spend on this convenient service? Are they just Gen Z's ordering their latest coffee concoction or Millennials running kids to soccer practice and Christmas concerts, too tired to even think about cooking when they finally make it home?
@@ -35,7 +35,7 @@ Key *Excel* skills used:
 * Advanced Formulas (IF, SUMIF, COUNTIF, texts, dates, etc.)
 * VLOOKUP and Data Validation
 
-# How I Did It:
+### How I Did It:
 
 I began by adding a unique "CustomerID" **column** and then **sorting** and **filtering** the data for the various questions I wanted to ask:
 
