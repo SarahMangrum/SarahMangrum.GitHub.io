@@ -3,7 +3,7 @@
 From deep within the pit of my stomach arose a grumble that shook the foundation beneath my feet. I had been tirelessly studying and was in such a groove, I didn't want to have to stop and lose my momentum by rummaging through the refrigerator and cupboards looking for something to quell the hangry beast festering inside. So...what's a girl to do? Insert >> local food delivery service to the rescue!
 I ordered my favorite vegan burger and fries combo and in just under 30 minutes it was at my door and making its way into the cavernous pit of my empty stomach. This got me thinking...How many other people use food delivery services? What is their go-to meal? How much are people willing to spend on this convenient service? Are they just Gen Z's ordering their latest coffee concoction or Millennials running kids to soccer practice and Christmas concerts, too tired to even think about cooking when they finally make it home?
 With the help of an online dataset and the analysis tool, *Excel*, I got to work analyzing the data. I discovered some interesting facts about how food delivery service sales and demographics, from companies like DoorDash, use marketing campaigns to attract their customer base and get us to spend our money.
-So, if you want to learn more about companies like DoorDash and the people who spent over *$1.24 Million* on this service, keep reading...
+So, if you want to learn more about companies like DoorDash and the people who spent over **$1.24 Million** on this service, keep reading...
  
 
 ## Let's Talk Data
