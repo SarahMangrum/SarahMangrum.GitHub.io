@@ -10,6 +10,7 @@ So, if you want to learn more about companies like DoorDash and the people who s
 
 **DoorDash** or, in this case, *iFood*, the Brazilian equivalent, is a leading food delivery option operating in Brazil and Columbia with over **80% market share** in its Brazilian sector.
 Using a modified version of a DoorDash-like case study given to potential data analyst applicants during the interview process, I got started reviewing the data:
+
 *Note that this project is actually modified from an iFood job interview case study given by the Brazilian equivalent of DoorDash, iFood. The data is 98% real but slightly modified for educational purposes. 
 
 (https://www.kaggle.com/datasets/jackdaoud/marketing-data)
