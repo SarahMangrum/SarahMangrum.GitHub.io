@@ -20,7 +20,7 @@ The 2018 dataset of iFood yearly sales consists of 2,205 unique customer rows an
 
 ### 2. You can add any images you'd like. 
 
-<img src="images/!![DataDictionary](https://github.com/SarahMangrum/SarahMangrum.GitHub.io/assets/79882311/310fa75e-0541-4b3b-8e8a-c0b75a23b647)raw=true"/>
+<img src="images/DataDictionary?raw=true"/>
 
 ## The Analysis
 
