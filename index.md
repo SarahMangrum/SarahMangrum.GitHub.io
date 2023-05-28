@@ -1,4 +1,5 @@
 # Welcome to My Portfolio
+[<img src="images/linkedinbanner.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/)
 
 ---
 
