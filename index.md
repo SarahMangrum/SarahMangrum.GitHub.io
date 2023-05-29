@@ -32,9 +32,8 @@ For this project using **Tableau**, I performed an analysis with data provided b
 - 
 - [About Me](/aboutme.md)
 
-### [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/CynthiaClifford-Data_Analyst.pdf)     
-### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/cynthia.clifford) [Tableau](https://public.tableau.com/app/profile/cynthia.clifford)     
-### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/cynthia-a-clifford/) [LinkedIn](https://www.linkedin.com/in/cynthia-a-clifford/)
+---
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
 ---
 
 
