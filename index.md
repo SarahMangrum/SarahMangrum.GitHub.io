@@ -16,12 +16,9 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 For this project using **Excel**, I performed a marketing analysis with customer data from *iFood*, a leading Brazilian food delivery service similar to DoorDash. 
  
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
+[<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/
+For this project using **Tableau**, I performed an analysis with data provided by the State of Massachusetts Department of Education in order to uncover key factors in improving graduation rates. 
 
 ---
 
