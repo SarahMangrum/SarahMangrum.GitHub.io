@@ -12,7 +12,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
-[<img src="images/?raw=true"/>](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
+[<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 For this project using **Excel**, I performed a marketing analysis with customer data from *iFood*, a leading Brazilian food delivery service similar to DoorDash. 
  
 ---
