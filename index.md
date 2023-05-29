@@ -17,7 +17,7 @@ For this project using **Excel**, I performed a marketing analysis with customer
  
 ---
 #### [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
-[<img src="images/Schoolbell.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/
+[<img src="images/Schoolbell.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 For this project using **Tableau**, I performed an analysis with data provided by the State of Massachusetts Department of Education in order to uncover key factors in improving graduation rates. 
 
 ---
