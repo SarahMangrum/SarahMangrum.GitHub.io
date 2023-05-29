@@ -22,7 +22,7 @@ For this project using **Tableau**, I performed an analysis with data provided b
 
 
 ---
-#### [Learn About Me](/aboutme.md)
+#### [More About Me](/aboutme.md)
 [<img src="images/AboutMe.png?raw=true"/>](/aboutme.md)    
 ### My Projects
 
