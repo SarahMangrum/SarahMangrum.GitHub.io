@@ -23,7 +23,7 @@ For this project using **Tableau**, I performed an analysis with data provided b
 
 ---
 #### [More About Me](/aboutme.md)
-[<img src="images/AboutMe.png?raw=true"/>](/aboutme.md)    
+[<img src="images/AboutMeCollage.png?raw=true"/>](/aboutme.md)    
 ### My Projects
 
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
