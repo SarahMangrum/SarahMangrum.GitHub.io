@@ -30,7 +30,7 @@ For this project using **Tableau**, I performed an analysis with data provided b
 - [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 - [Finance Analysis with SQL-Coming Soon]
 - 
-- [About Me](/aboutme.md)
+- [About Me](/AboutMe.md)
 
 ---
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
