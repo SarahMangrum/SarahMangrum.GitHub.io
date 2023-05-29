@@ -33,7 +33,7 @@ For this project using **Tableau**, I performed an analysis with data provided b
 - [About Me](/AboutMe.md)
 
 ---
-### [<img src="images/linkedin_icon2.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
 ---
 
 
