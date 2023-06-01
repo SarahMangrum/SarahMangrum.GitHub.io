@@ -1,4 +1,5 @@
 # Welcome to My Portfolio
+
 [<img src="images/linkedinbanner.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/)
 
 ---
@@ -16,28 +17,32 @@ For this project using **Excel**, I performed a marketing analysis with customer
 [<img src="images/Schoolbell.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 For this project using **Tableau**, I performed an analysis with data provided by the State of Massachusetts Department of Education in order to uncover key factors in improving graduation rates. **Key Skills:**  Connecting to Data, Parameters, Charts and Graphs, Metrics/KPI's, Dashboard
 
----
 
+---
 ### [Finance Analysis with SQL-Coming Soon]
 
 
-
 ---
-#### [More About Me](/AboutMe.md)
-[<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)    
+
+### More About Me 
+---
+
+[<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)
+
+[About Me](/AboutMe.md)
+
 ### My Projects
 
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 - [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 - [Finance Analysis with SQL-Coming Soon]
-- 
-- [About Me](/AboutMe.md)
 
 ---
+
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/sarah.mangrum) [Tableau](https://public.tableau.com/app/profile/sarah.mangrum)
 
-
+#### *Updated Resume Coming Soon*
 
 ---
 
