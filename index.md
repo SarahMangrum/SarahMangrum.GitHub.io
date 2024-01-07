@@ -23,7 +23,7 @@ Using **Tableau**, created interactive dashboard from Massachusetts Department o
 
 
 ---
-#### [Finance Analysis with SQL-Coming Soon]
+#### [The World Bank: An Analysis of Finances Around the Globe]
 [<img src="images/Earth Hour (Facebook Post).png?raw=true"/>]
 Using SQL, conducted comprehensive financial analysis for the World Bank determining the financial and accounting landscape across the globe 
 
