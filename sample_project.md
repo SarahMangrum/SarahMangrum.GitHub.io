@@ -1,8 +1,9 @@
+<img src="images/worldbank_logo.png?raw=true"/>
+
 ## The World Bank: An Analysis of Finances Around the Globe
+---
 
-<img src="worldbank_logo.png?raw=true"/>
-
-**Project description:** Using SQL, conducted a comprehensive financial analysis for The World Bank and identified the financial and accounting landscape across the globe. 
+Using SQL, conducted a comprehensive financial analysis for The World Bank and identified the financial and accounting landscape across the globe. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
