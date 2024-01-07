@@ -1,6 +1,6 @@
 ## The World Bank: An Analysis of Finances Around the Globe
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="worldbank_logo.png?raw=true"/>
 
 **Project description:** Using SQL, conducted a comprehensive financial analysis for The World Bank and identified the financial and accounting landscape across the globe. 
 
