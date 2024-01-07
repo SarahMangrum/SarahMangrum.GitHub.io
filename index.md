@@ -64,7 +64,7 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 
 ---
-#### [Data Annalytics Accelerator Capstone Project-Coming Soon]
+#### [Data Analytics Accelerator Capstone Project-Coming Soon]
 
 **Key Skills:**
 
@@ -89,7 +89,7 @@ Using R, implemented statistics and machine learning to identify what factors le
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/sarah.mangrum) [Tableau](https://public.tableau.com/app/profile/sarah.mangrum)
 
-#### *Updated Resume Coming Soon*
+### *Updated Resume Coming Soon*
 
 ---
 
