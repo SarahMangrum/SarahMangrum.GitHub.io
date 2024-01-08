@@ -14,8 +14,8 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 
 - The are over **1.24 Million** transactions with the IDA and the **total amount owed** is **over $19 Trillion US Dollars**
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most with **56,190** loans owed for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
-- **India** owes nearly **1 Billion US dollars** in loans to the IDA while, **Mozambique**, actually has a credit of just over **$5.00**.
-- **India** has loans for over **39,500** projects with the **IN: SSA III**, an elementary school education project, owing **$793,256,128.00**.
+- **India** owes the largest single loan amount of nearly **1 Billion US dollars** while **Mozambique** actually has a credit of just over **$5.00**.
+- **India** has loans for over **39,500** different projects with the top loan being the **IN: SSA III**, an elementary school education project, that owes nearly **$800 Million US dollars**.
 - The **average service rate** is **0.78%**
 -
 
@@ -42,11 +42,9 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 -Who has the most loans? 
 
--What is the MAX/MIN owed to the IDA?
+-What is the MAX/MIN of loans owed to the IDA?
 
--Abbreviate one of the column names so it's easier to write 
-
--Show us all transactions from India (the country)?
+-Show us all transactions from India (the country)
 
 -Which was the most recent to pay?
  
@@ -74,26 +72,25 @@ Of those **639,000 loans**, how many loans are held by each country?  Using a **
 <img src="images/Code1Query.png?raw=true"/>
 <img src="images/Code2Query2.png?raw=true"/>
 
-Next, I set out to find which country owed the largest amount in loans to the IDA and which owed the least.  Using **MAX/MIN** functions, results showed that **India** owes just shy of **1 Billion US dollars** in loans coming in at $793,256,128.00. **Mozambique** appears to have a credit in the amount of -$5.37. 
+Next, I set out to find which country owed the largest amount in loans to the IDA and which owed the least.  Using **MAX/MIN** functions, results showed that **India** owes the largest single loan amount just shy of **800 Million US dollars** coming in at $793,256,128.00. **Mozambique** appears to have a credit in the amount of -$5.37. 
 
 <img src="images/Code4.png?raw=true"/>
 <img src="images/Code4Query.png?raw=true"/>
 <img src="images/Code5.png?raw=true"/>
 <img src="images/Code5Query.png?raw=true"/>
 
-With **India** owing just shy of **1B US dollars** to the IDA, I wanted to take a closer look.  First, I listed all **56,190** transactions and their corresponding fields for the country.
+With **India** owing just shy of **800M US dollars** to the IDA, I wanted to take a closer look.  First, I listed all **56,190** transactions and their corresponding fields for the country.
 
 <img src="images/Code6.png?raw=true"/>
 <img src="images/Code6Query.png?raw=true"/>
 
-I then filtered further by the types/number of projects India received funds for.  There are over **39,500** different project names listed for India alone with some of the projects having multiple instances. For Example, there are over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS projects all of which carry a **ZERO Balance**.
+I then filtered further by the types/number of projects India received funds for.  There are over **39,500** different project names listed for **India** alone with some of the projects having multiple loans. For Example, there are **over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS** projects all of which carry a **ZERO Balance**.
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
 <img src="images/Code7Query2.png?raw=true"/>
 
-
-
+Next I wanted to know which project of India's had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project, owes nearly **$800 Million US dollars**.
 
 
 <img src="images/Code8.png?raw=true"/>
