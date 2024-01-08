@@ -64,17 +64,19 @@ Of those **639,000 loans**, how many loans are held by each country?  Using a **
 <img src="images/Code1Query.png?raw=true"/>
 <img src="images/Code2Query2.png?raw=true"/>
 
-Next I 
+Next, I set out to find which country owed the largest amount in loans to the IDA and which owed the least.  Using **MAX/MIN** functions, results showed that **India** owes just shy of **1 Billion US dollars** in loans coming in at $793,256,128.00. **Mozambique** appears to have a credit in the amount of -$5.37. 
+
+<img src="images/Code4.png?raw=true"/>
+
+<img src="images/Code4Query.png?raw=true"/>
+
+<img src="images/Code5.png?raw=true"/>
+
+<img src="images/Code5Query.png?raw=true"/>
 
 
 
-<img src="images/.png?raw=true"/>
 
-<img src="images/.png?raw=true"/>
-
-<img src="images/.png?raw=true"/>
-
-<img src="images/.png?raw=true"/>
 
 <img src="images/.png?raw=true"/>
 
