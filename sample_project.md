@@ -24,7 +24,7 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 
 ## THE ANALYSIS
 
-<img src="images/No_Loans_perCountry.png?raw=true"/>
+<img src="images/No_Loans_perCountry3.png?raw=true"/>
 
 <img src="images/No_Loans.png?raw=true"/>
 
