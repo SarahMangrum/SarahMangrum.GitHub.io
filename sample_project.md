@@ -32,13 +32,15 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 -How many total transactions per country?
 
---Who has the most loans? 
+-Who has the most loans? 
+
+-What is the max owed to the IDA?
 
 -Abbreviate one of the column names so it's easier to write 
 
 -Show us all transactions from the Nicaragua (the country)?
 
--What is the max owed to the IDA?
+
 
 -Which was the most recent to pay?
 
@@ -46,21 +48,25 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 
 
-I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT** to the initial query to only display the first several hundred rows.
+I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT**, to the initial query to only display the first several hundred rows.
 
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
-I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances at the time of my analysis.
+I then wanted to take a look at the total number of transactions.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
 
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
 
-Of those **639,000 loans**, how many loans due are owed by each country?  Using a **COUNT** function, I ran another query. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, **India** held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+Of those **639,000 loans**, how many loans are held by each country?  Using a **COUNT** function, I ran another query. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, **India** held the top position with **56,190** outstanding loans.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 
 <img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
 <img src="images/Code2Query2.png?raw=true"/>
+
+Next I 
+
+
 
 <img src="images/.png?raw=true"/>
 
