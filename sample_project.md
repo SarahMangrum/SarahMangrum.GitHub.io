@@ -58,12 +58,12 @@ I started with a simple **SELECT * FROM table_name** query to become more famili
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
-I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a WHERE clause.  Results showed that there were over **639,000 loans** with balances at the time of my analysis.
+I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances at the time of my analysis.
 
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
 
-I ran another query to see the number of loans due by each country using a COUNT function. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, India held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are: **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+I ran another query to see the number of loans due by each country using a **COUNT** function. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, India held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 
 <img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
