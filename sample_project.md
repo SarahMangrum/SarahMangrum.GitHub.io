@@ -12,12 +12,11 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 
 #My analysis covered insights in the following areas:
 
-- The **total amount owed** to the IDA is **over $19 Trillion US Dollars**
-- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190** loans for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+- The are over **1.24 Million** transactions with the IDA and the **total amount owed** is **over $19 Trillion US Dollars**
+- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most with **56,190** loans owed for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - **India** owes nearly **1 Billion US dollars** in loans to the IDA while, **Mozambique**, actually has a credit of just over **$5.00**.
 - **India** has loans for over **39,500** projects with the **IN: SSA III**, an elementary school education project, owing **$793,256,128.00**.
-
--The **average service rate** is **0.78%**
+- The **average service rate** is **0.78%**
 -
 
 ## THE DATA
