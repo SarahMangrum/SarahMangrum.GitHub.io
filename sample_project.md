@@ -50,9 +50,10 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 
 
-I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over 1M rows I added a LIMIT to the initial query to only display the several hundred rows.
+I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over 1M rows I added a LIMIT to the initial query to only display the first several hundred rows.
 
-
+<img src="images/Code3.png?raw=true"/>
+<img src="images/Code3Query?raw=true"/>
 
 
 <img src="images/Code2.png?raw=true"/>
