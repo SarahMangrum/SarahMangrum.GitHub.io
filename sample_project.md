@@ -12,7 +12,7 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 
 My analysis covered insights in the following areas:
 
-- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include: **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - 
 -
 -
@@ -23,33 +23,26 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**](https://csvfiddle.io), an open-source tool.
 
 
-
-
-
-
 ## THE ANALYSIS
 
 The main purpose of the analysis was to look over the dataset of loans consisting of credits or grants and provide insights on the following questions:
 
 
+-How many total transactions? 
 
+-How many total transactions per country?
 
-
--Only show the first 5 rows of the previous query 
+--Who has the most loans? 
 
 -Abbreviate one of the column names so it's easier to write 
 
 -Show us all transactions from the Nicaragua (the country)?
 
--How many total transactions? 
-
--How many total transactions per country?? 
-
 -What is the max owed to the IDA?
 
 -Which was the most recent to pay?
 
--Who has the most loans? 
+
 
 
 
