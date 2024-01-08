@@ -9,7 +9,7 @@ The World Bank Group is a unique global partnership of five institutions working
 
 My analysis covered insights in the following areas:
 
-- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. Top 5 countries include India, Bangladesh, Pakistan, Tanzania, and Ghana.
+- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include: **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - 
 -
 -
@@ -55,39 +55,31 @@ I started with a simple **SELECT * FROM table_name** query to become more famili
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
-I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names so I included the country field and filtered for balances not equal to zero. The results showed that there are currently over **639,000 loans** with balances due.
+I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a WHERE clause.  Results showed that there were over **639,000 loans** with balances at the time of my analysis.
 
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
 
-
+I ran another query to see the number of loans due by each country using a COUNT function. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, India held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are: **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 
 <img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
+<img src="images/Code2Query2.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
+
+EX<img src="images/Code1Query.png?raw=true"/>
 
 
 
-<img src="images/Code1Query.png?raw=true"/>
-
-<img src="images/Code1Query.png?raw=true"/>
-
-<img src="images/Code1Query.png?raw=true"/>
-
-<img src="images/Code1Query.png?raw=true"/>
-
-<img src="images/Code1Query.png?raw=true"/>
-
-<img src="images/Code1Query.png?raw=true"/>
-
-
-
-
-
-Just like this. And you can even add internal coding blocks
-
-```python
-print('this is the python code I used to solve this problem')
-```
 
 ### 2. You can add any images you'd like. 
 
