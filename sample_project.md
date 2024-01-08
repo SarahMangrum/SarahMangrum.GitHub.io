@@ -14,7 +14,7 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 
 - The are over **1.24 Million** transactions with the IDA and the **total amount owed** is **over $19 Trillion US Dollars**
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most with **56,190** loans owed for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
-- **India** owes the largest single loan amount of nearly **1 Billion US dollars** while **Mozambique** actually has a credit of just over **$5.00**.
+- **India** owes the largest single loan amount of nearly **800 Million US dollars** while **Mozambique** actually has a credit of just over **$5.00**.
 - **India** has loans for over **39,500** different projects with the top loan being the **IN: SSA III**, an elementary school education project, that owes nearly **$800 Million US dollars**.
 - The **average service rate** is **0.78%**
 -
@@ -34,9 +34,9 @@ To perform my analysis, I uploaded the data and ran SQL queries using [**csvfidd
 The main purpose of the analysis was to look over the dataset of loans consisting of credits or grants and provide insights on the following questions:
 
 
--How many total transactions are there?
+-How many total transactions are there?✅
 
--What is the total amount owed to the IDA?
+-What is the total amount owed to the IDA?✅
 
 -How many total transactions per country?
 
