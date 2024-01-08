@@ -63,7 +63,7 @@ I then wanted to take a look at who was borrowing money and how much was owed to
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
 
-I ran another query to see the number of loans due by each country using a **COUNT** function. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, India held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+Of those **639,000 loans**, how many loans due are owed by each country?  Using a **COUNT** function, I ran another query. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, **India** held the top position with **56,190** outstanding loans owed.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 
 <img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
