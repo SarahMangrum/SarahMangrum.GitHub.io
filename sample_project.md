@@ -69,17 +69,17 @@ Of those **639,000 loans**, how many loans due are owed by each country?  Using 
 <img src="images/Code1Query.png?raw=true"/>
 <img src="images/Code2Query2.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
-EX<img src="images/Code1Query.png?raw=true"/>
+<img src="images/.png?raw=true"/>
 
 
 
