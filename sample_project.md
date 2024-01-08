@@ -18,9 +18,13 @@ My analysis covered insights in the following areas:
 -
 
 ## THE DATA
-Using SQL, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), an institution of The World Bank, using data consisting of over 1.24M rows and 30 columns provided from November 2022.  The data is also updated monthly by the 10th business day at [**TheWorldBank.org**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). As noted on the site, the IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.  Credits from IDA are at concessional rates and data are in U.S. dollars calculated using historical rates. The World Bank complies with all sanctions applicable to World Bank transactions.  You will also find a detailed data dictionary among other details.
+Using SQL, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), 1 of the 5 institutions of The World Bank.  The IDA provides concessional financing to some of the world's poorest countries to help them lift themselves out of poverty. This financing lets countries work toward economic efficiency providing access to health, nutrition, social services, and a better quality of life. 
 
-To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**](https://csvfiddle.io), an open-source tool.
+~worldbank.org
+
+The data consists of over 1.24M rows and 30 columns provided from November 2022. It is also updated monthly by the 10th business day at [**TheWorldBank.org**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). As noted on the site, the IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.  Credits from IDA are at concessional rates and data are in U.S. dollars calculated using historical rates. The World Bank complies with all sanctions applicable to World Bank transactions.  You will also find a detailed data dictionary among other details.
+
+To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**](https://csvfiddle.io), an open-source tool that allows its users to run SQL queries exclusively in-browser eliminating the need to download software like MySQL on their computer.
 
 
 ## THE ANALYSIS
@@ -38,14 +42,11 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 -Abbreviate one of the column names so it's easier to write 
 
--Show us all transactions from the Nicaragua (the country)?
-
-
+-Show us all transactions from India (the country)?
 
 -Which was the most recent to pay?
 
-
-
+-What is the total amount owed to the IDA?
 
 
 I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT**, to the initial query to only display the first several hundred rows.
@@ -58,7 +59,7 @@ I then wanted to take a look at the total number of transactions using the borro
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
 
-Of those **639,000 loans**, how many loans are held by each country?  Using a **COUNT** function, I ran another query. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, **India** held the top position with **56,190** outstanding loans.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+Of those **639,000 loans**, how many loans are held by each country?  Using a **COUNT** function with **GROUP BY** and **ORDER BY** clauses, I ran another query. Results indicated there were **136 countries** with outstanding loans.  At the time of analysis, **India** held the top position with **56,190** outstanding loans.  Among the **top 5** countries are **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 
 <img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
@@ -71,6 +72,20 @@ Next, I set out to find which country owed the largest amount in loans to the ID
 <img src="images/Code5.png?raw=true"/>
 <img src="images/Code5Query.png?raw=true"/>
 
+With India owing just shy of **1B US dollars**, I wanted to take a closer look.  First, I wanted to see a list of all **56,190** transactions for the country.
+
+<img src="images/Code6.png?raw=true"/>
+<img src="images/Code6Query.png?raw=true"/>
+
+I then focused on the types/number of projects India received funds for.
+
+<img src="images/Code7.png?raw=true"/>
+<img src="images/Code7Query.png?raw=true"/>
+<img src="images/Code8.png?raw=true"/>
+<img src="images/Code8Query.png?raw=true"/>
+
+
+And finally, I 
 ### 2. You can add any images you'd like. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
