@@ -34,7 +34,7 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 -Who has the most loans? 
 
--What is the max owed to the IDA?
+-What is the MAX/MIN owed to the IDA?
 
 -Abbreviate one of the column names so it's easier to write 
 
@@ -67,11 +67,8 @@ Of those **639,000 loans**, how many loans are held by each country?  Using a **
 Next, I set out to find which country owed the largest amount in loans to the IDA and which owed the least.  Using **MAX/MIN** functions, results showed that **India** owes just shy of **1 Billion US dollars** in loans coming in at $793,256,128.00. **Mozambique** appears to have a credit in the amount of -$5.37. 
 
 <img src="images/Code4.png?raw=true"/>
-
 <img src="images/Code4Query.png?raw=true"/>
-
 <img src="images/Code5.png?raw=true"/>
-
 <img src="images/Code5Query.png?raw=true"/>
 
 
