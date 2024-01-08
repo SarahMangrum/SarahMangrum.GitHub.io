@@ -54,12 +54,15 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 
 
-I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  There are over 1.24 Million rows representing the total amount of transactions made with the IDA. Because the dataset consists of over **1M rows** I added a **LIMIT** clause to the initial query to only display the first several hundred rows.  **Note:**  I also had to add a **LIMIT** clause to other queries due to the large size of the dataset.
+I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  There are over **1.24 Million** rows representing the total amount of transactions made with the IDA. Because the dataset consists of over **1M rows** I added a **LIMIT** clause to the initial query to only display the first several hundred rows.  **Note:**  I also had to add a **LIMIT** clause to other queries due to the large size of the dataset.
 
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
 Next, I queried to find the total amount owed to the IDA using a **SUM** function. The total is over **19 Trillion US dollars** ($19,204,389,797,689.50).
+
+<img src="images/Code9.png?raw=true"/>
+<img src="images/Code9Query.png?raw=true"/>
 
 I then wanted to take a look at the total number of transactions with balances using the borrower, DueToIda, and country fields.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
 
