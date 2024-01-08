@@ -9,7 +9,7 @@ The World Bank Group is a unique global partnership of five institutions working
 
 My analysis revealed insights in the following areas:
 
-- There are currently approximately 640,000 loans with balances due across 136 countries.  Many countries have multiple loans extended with India having the most at 56,190.
+- There are currently approximately **640,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. Top 5 countries include India, Bangladesh, Pakistan, Tanzania, and Ghana.
 - 
 -
 -
@@ -20,9 +20,9 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 
 
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
-### 1. You can have sections and text.
+
+## THE ANALYSIS
 
 Just like this. And you can even add internal coding blocks
 
