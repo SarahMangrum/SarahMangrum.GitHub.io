@@ -24,13 +24,15 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 
 ## THE ANALYSIS
 
+<img src="images/Code2.png?raw=true"/>
+
+<img src="images/Code2Query.png?raw=true"/>
+
 <img src="images/Code1.png?raw=true"/>
 
 <img src="images/Code1Query.png?raw=true"/>
 
-<img src="images/Code2.png?raw=true"/>
 
-<img src="images/Code2Query.png?raw=true"/>
 
 <img src="images/Code1Query.png?raw=true"/>
 
