@@ -53,7 +53,7 @@ I started with a simple **SELECT * FROM table_name** query to become more famili
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
-I then wanted to take a look at the total number of transactions.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
+I then wanted to take a look at the total number of transactions using the borrower, DueToIda, and country fields.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
 
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
