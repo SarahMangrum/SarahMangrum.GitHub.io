@@ -5,7 +5,7 @@
 ---
 
 
-The World Bank Group is a unique global partnership of five institutions working for sustainable solutions that reduce poverty and build shared prosperity in developing countries consisting of 189 member countries, staff from over 170 countries, and over 130 office locations. The WBG has helped over 100 developing countries and, those in transition, adjust to the many changes in the world economy over the last 70 years by offering loans and tailored knowledge & advice. ~ worldbank.org
+The **World Bank Group** is a unique global partnership of five institutions working for sustainable solutions that reduce poverty and build shared prosperity in developing countries consisting of **189 member countries**, **staff** from over **170 countries**, and over **130 office locations**. The **WBG** has helped over 100 developing countries and, those in transition, adjust to the many changes in the world economy over the last 70 years by offering loans and tailored knowledge & advice. ~ worldbank.org
 
 My analysis covered insights in the following areas:
 
