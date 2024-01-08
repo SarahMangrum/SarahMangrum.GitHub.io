@@ -72,15 +72,16 @@ Next, I set out to find which country owed the largest amount in loans to the ID
 <img src="images/Code5.png?raw=true"/>
 <img src="images/Code5Query.png?raw=true"/>
 
-With India owing just shy of **1B US dollars**, I wanted to take a closer look.  First, I wanted to see a list of all **56,190** transactions for the country.
+With **India** owing just shy of **1B US dollars** to the IDA, I wanted to take a closer look.  First, I wanted to see a list of all **56,190** transactions and their corresponding fields for the country.
 
 <img src="images/Code6.png?raw=true"/>
 <img src="images/Code6Query.png?raw=true"/>
 
-I then focused on the types/number of projects India received funds for.
+I then focused on the types/number of projects India received funds for.  There are over **39,500** different project names listed for India alone with those projects having multiple instances. For Example, 
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
+<img src="images/Code7Query2.png?raw=true"/>
 <img src="images/Code8.png?raw=true"/>
 <img src="images/Code8Query.png?raw=true"/>
 
