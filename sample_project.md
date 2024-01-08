@@ -10,11 +10,13 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 ~ worldbank.org
 
 
-My analysis covered insights in the following areas:
+#My analysis covered insights in the following areas:
 
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - **India** owes nearly **1 Billion US dollars** in loans to the IDA while, **Mozambique**, actually has a credit of just over **$5.00**.
--
+- **India** has loans for over **39,500** projects with the IN: SSA III, an elementary school education project, owing $793,256,128.00.
+- The **total amount owed** to the IDA is **over $20 Trillion US Dollars**
+-The **average service rate** is **0.78%**
 -
 
 ## THE DATA
@@ -22,7 +24,7 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 
 ~worldbank.org
 
-The data consists of over 1.24M rows and 30 columns provided from November 2022. It is also updated monthly by the 10th business day at [**TheWorldBank.org**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). As noted on the site, the IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.  Credits from IDA are at concessional rates and data are in U.S. dollars calculated using historical rates. The World Bank complies with all sanctions applicable to World Bank transactions.  You will also find a detailed data dictionary among other details.
+The data consists of over **1.24M rows** and **30 columns** provided from **November 2022**. It is also updated monthly by the 10th business day at [**TheWorldBank.org**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). As noted on the site, the IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.  Credits from IDA are at concessional rates and data are in U.S. dollars calculated using historical rates. The World Bank complies with all sanctions applicable to World Bank transactions.  You will also find a detailed data dictionary among other details.
 
 To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**](https://csvfiddle.io), an open-source tool that allows its users to run SQL queries exclusively in-browser eliminating the need to download software like MySQL on their computer.
 
@@ -49,7 +51,7 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 -What is the total amount owed to the IDA?
 
 
-I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT**, to the initial query to only display the first several hundred rows.
+I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT**, to the initial query to only display the first several hundred rows.  *Note:  I also had to add a **LIMIT** clause to other queries due to the large size of the dataset.
 
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
@@ -72,16 +74,21 @@ Next, I set out to find which country owed the largest amount in loans to the ID
 <img src="images/Code5.png?raw=true"/>
 <img src="images/Code5Query.png?raw=true"/>
 
-With **India** owing just shy of **1B US dollars** to the IDA, I wanted to take a closer look.  First, I wanted to see a list of all **56,190** transactions and their corresponding fields for the country.
+With **India** owing just shy of **1B US dollars** to the IDA, I wanted to take a closer look.  First, I listed all **56,190** transactions and their corresponding fields for the country.
 
 <img src="images/Code6.png?raw=true"/>
 <img src="images/Code6Query.png?raw=true"/>
 
-I then focused on the types/number of projects India received funds for.  There are over **39,500** different project names listed for India alone with those projects having multiple instances. For Example, 
+I then filtered further by the types/number of projects India received funds for.  There are over **39,500** different project names listed for India alone with some of the projects having multiple instances. For Example, there are over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS projects all of which carry a **ZERO Balance**.
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
 <img src="images/Code7Query2.png?raw=true"/>
+
+
+
+
+
 <img src="images/Code8.png?raw=true"/>
 <img src="images/Code8Query.png?raw=true"/>
 
