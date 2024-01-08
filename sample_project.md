@@ -24,6 +24,12 @@ Using SQL, I conducted a comprehensive financial analysis of credits and grants 
 
 ## THE ANALYSIS
 
+<img src="images/No_Loans_perCountry.png?raw=true"/>
+
+<img src="images/.png?raw=true"/>
+
+
+
 Just like this. And you can even add internal coding blocks
 
 ```python
