@@ -13,7 +13,7 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 My analysis covered insights in the following areas:
 
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
-- 
+- India owes nearly **1 Billion US dollars** in loans to the IDA while, Mozambique, actually has a credit of just over **$5.00**.
 -
 -
 
@@ -70,13 +70,7 @@ Next, I set out to find which country owed the largest amount in loans to the ID
 <img src="images/Code4Query.png?raw=true"/>
 <img src="images/Code5.png?raw=true"/>
 <img src="images/Code5Query.png?raw=true"/>
-
-
-
-
-
 <img src="images/.png?raw=true"/>
-
 <img src="images/.png?raw=true"/>
 
 
