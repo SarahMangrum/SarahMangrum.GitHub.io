@@ -12,15 +12,16 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 
 #My analysis covered insights in the following areas:
 
-- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
+- The **total amount owed** to the IDA is **over $19 Trillion US Dollars**
+- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190** loans for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - **India** owes nearly **1 Billion US dollars** in loans to the IDA while, **Mozambique**, actually has a credit of just over **$5.00**.
-- **India** has loans for over **39,500** projects with the IN: SSA III, an elementary school education project, owing $793,256,128.00.
-- The **total amount owed** to the IDA is **over $20 Trillion US Dollars**
+- **India** has loans for over **39,500** projects with the **IN: SSA III**, an elementary school education project, owing **$793,256,128.00**.
+
 -The **average service rate** is **0.78%**
 -
 
 ## THE DATA
-Using SQL, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), 1 of the 5 institutions of The World Bank.  The IDA provides concessional financing to some of the world's poorest countries to help them lift themselves out of poverty. This financing lets countries work toward economic efficiency providing access to health, nutrition, social services, and a better quality of life. 
+Using **SQL**, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), 1 of the 5 institutions of The World Bank.  The IDA provides concessional financing to some of the world's poorest countries to help them lift themselves out of poverty. This financing lets countries work toward economic efficiency providing access to health, nutrition, social services, and a better quality of life. 
 
 ~worldbank.org
 
@@ -34,7 +35,9 @@ To perform my analysis, I uploaded the data and ran SQL queries using [**csvfidd
 The main purpose of the analysis was to look over the dataset of loans consisting of credits or grants and provide insights on the following questions:
 
 
--How many total transactions? 
+-How many total transactions are there?
+
+-What is the total amount owed to the IDA?
 
 -How many total transactions per country?
 
@@ -47,16 +50,18 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 -Show us all transactions from India (the country)?
 
 -Which was the most recent to pay?
+ 
 
--What is the total amount owed to the IDA?
 
 
-I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  Because the dataset consists of over **1M rows** I added a **LIMIT**, to the initial query to only display the first several hundred rows.  *Note:  I also had to add a **LIMIT** clause to other queries due to the large size of the dataset.
+I started with a simple **SELECT * FROM table_name** query to become more familiar with the data and get a feel for things.  There are over 1.24 Million rows representing the total amount of transactions made with the IDA. Because the dataset consists of over **1M rows** I added a **LIMIT** clause to the initial query to only display the first several hundred rows.  **Note:**  I also had to add a **LIMIT** clause to other queries due to the large size of the dataset.
 
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
-I then wanted to take a look at the total number of transactions using the borrower, DueToIda, and country fields.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
+Next, I queried to find the total amount owed to the IDA using a **SUM** function. The total is over **19 Trillion US dollars** ($19,204,389,797,689.50).
+
+I then wanted to take a look at the total number of transactions with balances using the borrower, DueToIda, and country fields.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names listed so I filtered out the zero balances using a **WHERE** clause.  Results showed that there were over **639,000 loans** with balances due at the time of my analysis.
 
 <img src="images/Code2.png?raw=true"/>
 <img src="images/Code2Query.png?raw=true"/>
