@@ -9,7 +9,7 @@ The World Bank Group is a unique global partnership of five institutions working
 
 My analysis covered insights in the following areas:
 
-- There are currently approximately **640,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. Top 5 countries include India, Bangladesh, Pakistan, Tanzania, and Ghana.
+- There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190**. Top 5 countries include India, Bangladesh, Pakistan, Tanzania, and Ghana.
 - 
 -
 -
@@ -17,7 +17,7 @@ My analysis covered insights in the following areas:
 ## THE DATA
 Using SQL, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), an institution of The World Bank, using data consisting of over 1.24M rows and 30 columns provided from November 2022.  The data is also updated monthly by the 10th business day at [**TheWorldBank.org**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). As noted on the site, the IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.  Credits from IDA are at concessional rates and data are in U.S. dollars calculated using historical rates. The World Bank complies with all sanctions applicable to World Bank transactions.  You will also find a detailed data dictionary among other details.
 
-To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**] (https://csvfiddle.io), an open-source tool.
+To perform my analysis, I uploaded the data and ran SQL queries using [**csvfiddle.io**](https://csvfiddle.io), an open-source tool.
 
 
 
@@ -30,7 +30,7 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 
 
--Return all rows of the table, but only the borrower & due to IDA column
+
 
 -Only show the first 5 rows of the previous query 
 
@@ -55,13 +55,14 @@ I started with a simple **SELECT * FROM table_name** query to become more famili
 <img src="images/Code3.png?raw=true"/>
 <img src="images/Code3Query.png?raw=true"/>
 
+I then wanted to take a look at who was borrowing money and how much was owed to the IDA.  The initial query resulted in multiple borrowers with **zero dollars** owed and borrowers with the same or similar names so I included the country field and filtered for balances not equal to zero. The results showed that there are currently over **639,000 loans** with balances due.
 
 <img src="images/Code2.png?raw=true"/>
-
 <img src="images/Code2Query.png?raw=true"/>
 
-<img src="images/Code1.png?raw=true"/>
 
+
+<img src="images/Code1.png?raw=true"/>
 <img src="images/Code1Query.png?raw=true"/>
 
 
