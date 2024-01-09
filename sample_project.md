@@ -94,7 +94,7 @@ Next, I filtered to find the total number of projects for India. There are over 
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
-<img src="images/Code7Query2.png?raw=true"/>
+<img src="images/Code7Query2A.png?raw=true"/>
 
 Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project, owes nearly **$800 Million US dollars**.
 
