@@ -21,6 +21,8 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 -
 
 ## THE DATA
+---
+
 Using **SQL**, I conducted a comprehensive financial analysis of credits and grants issued by the International Development Association (IDA), 1 of the 5 institutions of The World Bank.  The IDA provides concessional financing to some of the world's poorest countries to help them lift themselves out of poverty. This financing lets countries work toward economic efficiency providing access to health, nutrition, social services, and a better quality of life. 
 
 ~worldbank.org
@@ -31,6 +33,7 @@ To perform my analysis, I uploaded the data and ran SQL queries using [**csvfidd
 
 
 ## THE ANALYSIS
+---
 
 The main purpose of the analysis was to look over the dataset of loans consisting of credits or grants and provide insights on the following questions:
 
@@ -54,6 +57,14 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 -How many loans did India receive for each project?✅
 
 -Which was the most recent to pay?
+
+-SUM
+
+-Average
+
+-ORDER BY
+
+-AND/OR/NOT
  
 
 
@@ -91,25 +102,22 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 <img src="images/Code6.png?raw=true"/>
 <img src="images/Code6Query.png?raw=true"/>
 
-Next, I filtered to find the total number of projects for India. There are over **39,500** different project names listed for **India**.
+✅Next, I filtered to find the total number of projects for India. There are over **39,500** different project names listed for **India**.
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
 <img src="images/Code7Query2A.png?raw=true"/>
 
-Some projects have multiple loans. For Example, there are **over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS** projects all of which have a **ZERO Balance**.
+✅Some projects have multiple loans. For Example, there are **over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS** projects all of which have a **ZERO Balance**.
 
 <img src="images/Code10.png?raw=true"/>
 <img src="images/Code10Query.png?raw=true"/>
 
-Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project focused on providing better outcomes for elementary school children, is the largest loan owed by India and the largest loan owed to the IDA  at nearly **$800 Million US dollars**.
+✅Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project focused on providing better outcomes for elementary school children, is the largest loan owed by India and the largest loan owed to the IDA  at nearly **$800 Million US dollars**.
 
 
 <img src="images/Code8.png?raw=true"/>
 <img src="images/Code8Query.png?raw=true"/>
 
 
-And finally, I 
-### 2. You can add any images you'd like. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
