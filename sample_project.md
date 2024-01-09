@@ -35,6 +35,9 @@ To perform my analysis, I uploaded the data and ran SQL queries using [**csvfidd
 ## THE ANALYSIS
 ---
 
+SQL commands used while performing my analysis include:
+✅SELECT* ✅FROM table_name ✅LIMIT ✅AS ✅WHERE ✅COUNT ✅GROUP BY ✅ORDER BY ✅ MIN / MAX ✅SUM ✅AVG
+
 The main purpose of the analysis was to look over the dataset of loans consisting of credits or grants and provide insights on the following questions:
 
 
