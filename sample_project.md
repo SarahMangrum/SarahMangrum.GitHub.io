@@ -10,12 +10,13 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 ~ worldbank.org
 
 
-###My analysis covered insights in the following areas:
+## My analysis covered insights in the following areas:
+---
 
 - The are over **1.24 Million** transactions with the IDA and the **total amount owed** is **over $19 Trillion US Dollars**
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most with **56,190** loans owed for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - **India** owes the largest single loan amount of nearly **800 Million US dollars** while **Mozambique** actually has a credit of just over **$5.00**.
-- **India** has loans for over **39,500** different projects with the top loan being the **IN: SSA III**, an elementary school education project, that owes nearly **$800 Million US dollars**.
+- **India** has loans for over **39,500** different projects. The **IN: SSA III**, an elementary school education project, is the largest loan owed by India and the largest loan owed to the IDA at nearly **800 Million**.
 - The **average service rate** is **0.78%**
 -
 
@@ -90,15 +91,18 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 <img src="images/Code6.png?raw=true"/>
 <img src="images/Code6Query.png?raw=true"/>
 
-Next, I filtered to find the total number of projects for India. There are over **39,500** different project names listed for **India** with some of the projects having multiple loans. For Example, there are **over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS** projects all of which carry a **ZERO Balance**.
+Next, I filtered to find the total number of projects for India. There are over **39,500** different project names listed for **India**.
 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
 <img src="images/Code7Query2A.png?raw=true"/>
+
+Some projects have multiple loans. For Example, there are **over 136 HIGHWAYS, 294 RAILWAYS, and 276 TELECOMMUNICATIONS** projects all of which have a **ZERO Balance**.
+
 <img src="images/Code10.png?raw=true"/>
 <img src="images/Code10Query.png?raw=true"/>
 
-Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project, owes nearly **$800 Million US dollars**.
+Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project focused on providing better outcomes for elementary school children, is the largest loan owed by India and the largest loan owed to the IDA  at nearly **$800 Million US dollars**.
 
 
 <img src="images/Code8.png?raw=true"/>
