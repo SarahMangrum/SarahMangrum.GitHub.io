@@ -48,9 +48,9 @@ The main purpose of the analysis was to look over the dataset of loans consistin
 
 -all transactions from India (the country)✅
 
--What is the total number of projects for India?
+-What is the total number of projects for India?✅
 
--How many loans did India receive for each project?
+-How many loans did India receive for each project?✅
 
 -Which was the most recent to pay?
  
@@ -95,6 +95,8 @@ Next, I filtered to find the total number of projects for India. There are over 
 <img src="images/Code7.png?raw=true"/>
 <img src="images/Code7Query.png?raw=true"/>
 <img src="images/Code7Query2A.png?raw=true"/>
+<img src="images/Code10.png?raw=true"/>
+<img src="images/Code10Query.png?raw=true"/>
 
 Next, I wanted to know which project in India had the highest balance owed.  Results revealed that the **IN: SSA III**, an elementary school education project, owes nearly **$800 Million US dollars**.
 
