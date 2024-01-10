@@ -17,7 +17,8 @@ The **World Bank Group** is a unique global partnership of five institutions wor
 - There are currently over **639,000 loans** with balances due across **136 countries**.  Many countries have multiple loans extended with **India** having the most at **56,190** loans owed for various projects. The **top 5** countries include **India, Bangladesh, Pakistan, Tanzania, and Ghana**.
 - **India** owes the largest single loan amount of nearly **800 Million US dollars** while **Mozambique** actually has a credit of just over **$5.00**.
 - **India** has loans for over **39,500** different projects. The **IN: SSA III**, an elementary school education project, is the largest loan owed by India and the largest loan owed to the IDA at nearly **800 Million**.
-- The **average service rate** is **0.78%**
+- The **average service rate charge** for an IDA loan was **0.77%**.  Rates were as high **4.95%** and as low as **0%**.
+-
 -
 
 ## THE DATA
@@ -66,7 +67,7 @@ The main purpose of the analysis was to look over the dataset of  IDA transactio
 
 -What country was the most recent to pay their loan?
 
--What is the average service charge rate for a loan?
+-What is the average service charge rate for a loan?✅
 
 -ORDER BY
 
@@ -124,6 +125,16 @@ The main purpose of the analysis was to look over the dataset of  IDA transactio
 
 <img src="images/Code8.png?raw=true"/>
 <img src="images/Code8Query.png?raw=true"/>
+
+IDA loan financing terms are determined with reference to recipient countries' risk of debt distress, the level of GNI per capita, and creditworthiness for the International Bank of Reconstruction and Development (IBRD) borrowing.  The **average service rate charge** for an IDA loan was **0.77%** at the time of my analysis. Rates were as high **4.95%** and as low as **0%**.
+[ida.worldbank.org](https://ida.worldbank.org/en/financing/ida-lending-terms)https://ida.worldbank.org/en/financing/ida-lending-terms)
+
+<img src="images/Code11.png?raw=true"/>
+<img src="images/Code11Query.png?raw=true"/>
+<img src="images/Code12.png?raw=true"/>
+<img src="images/Code12Query.png?raw=true"/>
+<img src="images/Code11Query2.png?raw=true"/>
+
 
 
 
