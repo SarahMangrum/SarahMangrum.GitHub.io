@@ -116,7 +116,7 @@ Next, I wanted to know which project in **India** was responsible for the highes
 <img src="images/Code8.png?raw=true"/>
 <img src="images/Code8Query.png?raw=true"/>
 
-IDA loan financing terms are determined with reference to recipient countries' risk of debt distress, the level of GNI per capita, and creditworthiness for the International Bank of Reconstruction and Development (IBRD) borrowing.  The **average service rate charge** for an IDA loan was **0.77%** at the time of my analysis. Rates were as high as **4.95%** and as low as **0%**.
+**IDA** loan financing terms are determined with reference to recipient countries' risk of debt distress, the level of GNI per capita, and creditworthiness for the **International Bank of Reconstruction and Development (IBRD)** borrowing.  The **average service rate charge** for an **IDA** loan was **0.77%** at the time of my analysis. Rates were as high as **4.95%** and as low as **0%**.
 [ida.worldbank.org](https://ida.worldbank.org/en/financing/ida-lending-terms)https://ida.worldbank.org/en/financing/ida-lending-terms)
 
 <img src="images/Code11.png?raw=true"/>
