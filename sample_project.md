@@ -1,7 +1,9 @@
 <img src="images/worldbank_logo.png?raw=true"/>
 
 ---
+
 ## The World Bank: An Analysis of Finances Around the Globe
+
 ---
 
 
