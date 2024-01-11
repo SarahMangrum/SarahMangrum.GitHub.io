@@ -87,8 +87,7 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 - [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
-- [Finance Analysis with SQL-Coming Soon]
-
+- [Finance Analysis with SQL](/SQL_banking)
 ---
 
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
