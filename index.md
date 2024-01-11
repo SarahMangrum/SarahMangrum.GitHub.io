@@ -7,6 +7,7 @@
 ### Learn About My Projects
 
 ---
+
 #### [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 Using **Excel**, analyzed 2000+ rows of customer behavior from an *iFood* dataset to evaluate campaign success levels identifying key insights of the customer population and enabling improved targeting of marketing funds
@@ -15,6 +16,7 @@ Using **Excel**, analyzed 2000+ rows of customer behavior from an *iFood* datase
 
 
 ---
+
 #### [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 [<img src="images/Schoolbell.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 Using **Tableau**, created interactive dashboard from Massachusetts Department of Education dataset identifying key performance metrics for 1800+ Massachusetts schools allowing at-a-glance viewing and understanding of the entire program 
@@ -23,8 +25,9 @@ Using **Tableau**, created interactive dashboard from Massachusetts Department o
 
 
 ---
-#### [The World Bank: An Analysis of Finances Around the Globe]
-[<img src="images/Earth Hour (Facebook Post).png?raw=true"/>]
+
+#### The World Bank: An Analysis of Finances Around the Globe
+<img src="images/Earth Hour (Facebook Post).png?raw=true"/>
 Using SQL, conducted comprehensive financial analysis for the World Bank determining the financial and accounting landscape across the globe 
 
 **Key Skills:** SELECT * FROM, LIMIT, AS, WHERE, COUNT, GROUP BY, ORDER BY, MIN / MAX, SUM, AVG, AND / OR / NOT
