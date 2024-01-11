@@ -134,10 +134,10 @@ The work that the **IDA** should not be measured in dollars and cents but, rathe
 
 ---
 
-Thank you to all who took the time to review my latest project!  I would love to know your thoughts.
+Thank you to all who took the time to review my latest project!  
 
-I am currently looking for a Data Analyst position with remote/hybrid opportunities.  
+I would love to know your thoughts.  Leave a comment on [LinkedIn](https://www.linkedin.com/in/sarahamangrum/) or email me at sarahqmangrum@gmail.com.
 
-You can email me at sarahqmangrum@gmail.com.
+I am currently looking for a Data Analyst position with remote/hybrid opportunities based out of Texas.  
 
 ---
