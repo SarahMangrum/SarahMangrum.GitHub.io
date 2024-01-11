@@ -138,6 +138,6 @@ Thank you to all who took the time to review my latest project!
 
 I would love to know your thoughts.  Leave a comment on [LinkedIn](https://www.linkedin.com/in/sarahamangrum/) or email me at sarahqmangrum@gmail.com.
 
-I am currently looking for a Data Analyst position with remote/hybrid opportunities based out of Texas.  
+**I am currently looking for a Data Analyst position with remote/hybrid opportunities based out of Texas.**  
 
 ---
