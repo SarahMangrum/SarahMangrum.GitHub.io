@@ -99,7 +99,7 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/sarah.mangrum) [Tableau](https://public.tableau.com/app/profile/sarah.mangrum)
-### [<img src="images/resume_icon2.png?raw=true"/>](/files/Sarah_Mangrum_Master_Resume.pdf) [Resume](/files/Sarah_Mangrum_Master_Resume.docx)
+### [<img src="images/resume_icon2.png?raw=true"/>](/files/Sarah_Mangrum_Master_Resume.docx) [Resume](/files/Sarah_Mangrum_Master_Resume.docx)
 
 ---
 
