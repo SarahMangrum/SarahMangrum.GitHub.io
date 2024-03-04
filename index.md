@@ -39,8 +39,7 @@ Using SQL, conducted comprehensive financial analysis for the World Bank determi
 ---
 
 #### [Healthcare Analysis with SQL-CLICK HERE](https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
-
-<img src="images/HealthcareSQL.png?raw=true"/>
+<img src="images/HealthcareSQL.png?raw=true"/>(https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
 Using SQL, explored 100,000+ rows of patient healthcare data, assessing key factors like hospital equality and duration of hospital stay
 
 **Key Skills:** ✅ JOIN ✅ UNION ✅ CASE WHEN ✅ HAVING ✅ DISTINCT ✅ WINDOW FUNCTION ✅ RANKING ✅ TEXT ✅ Dates ✅ WITH (CTE's)  ✅ CAST  ✅ HISTOGRAMS  ✅ ALTER TABLE ✅ MODIFY COLUMN CONCAT ✅ REPLACE ✅ ROUND ✅ PARTITION BY
