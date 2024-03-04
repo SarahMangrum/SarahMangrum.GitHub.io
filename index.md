@@ -26,31 +26,32 @@ Using **Tableau**, created interactive dashboard from Massachusetts Department o
 
 ---
 
-#### [The World Bank: An Analysis of Finances Around the Globe](/SQL_banking.md)
+#### [The World Bank: An Analysis of Finances Around the Globe-CLICK HERE](/SQL_banking.md)
 
 <img src="images/Earth Hour (Facebook Post).png?raw=true"/>
 Using SQL, conducted comprehensive financial analysis for the World Bank determining the financial and accounting landscape across the globe 
 
-**Key Skills:** SELECT * FROM, LIMIT, AS, WHERE, COUNT, GROUP BY, ORDER BY, MIN / MAX, SUM, AVG, AND / OR / NOT
-
+**Key Skills:** ✅ SELECT* ✅ FROM table_name ✅ LIMIT ✅ AS ✅ WHERE ✅ COUNT ✅ GROUP BY ✅ ORDER BY ✅ MIN/MAX ✅ SUM ✅ AVG ✅ AND/OR/NOT
 
 ---
+
 #### [Healthcare Analysis with SQL-CLICK HERE](https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
 
+<img src="images/HealthcareSQL.png?raw=true"/>
 Using SQL, explored 100,000+ rows of patient healthcare data, assessing key factors like hospital equality and duration of hospital stay
 
-**Key Skills:**
-
+**Key Skills:** ✅ JOIN ✅ UNION ✅ CASE WHEN ✅ HAVING ✅ DISTINCT ✅ WINDOW FUNCTION ✅ RANKING ✅ TEXT ✅ Dates ✅ WITH (CTE's)  ✅ CAST  ✅ HISTOGRAMS  ✅ ALTER TABLE ✅ MODIFY COLUMN CONCAT ✅ REPLACE ✅ ROUND ✅ PARTITION BY
 
 ---
+
 #### [Sports Analysis with Tableau-Coming Soon]
-Using Tableau, designed custom dashboard to explain the 2021 NBA season patterns and trends with KPI's, bar charts, scatter plots, heatmaps, and more.
+Using Tableau, designed a custom dashboard to explain the 2021 NBA season patterns and trends with KPI's, bar charts, scatter plots, heatmaps, and more.
 
 **Key Skills:**
 
 
 ---
-#### [Python Manufactoring Project-Coming Soon]
+#### [Python Manufacturing Project-Coming Soon]
 Using Python, performed exploratory analysis to troubleshoot possible manufacturing issues with Pandas, Numpy, and Matplotlib
 
 **Key Skills:**
