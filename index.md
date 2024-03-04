@@ -1,10 +1,13 @@
 # Welcome to My Portfolio
-
+---
 [<img src="images/linkedinbanner.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/)
+CLICK IMAGE for LINKEDIN PROFILE
 
 ---
 
-### Learn About My Projects
+
+# Learn About My Projects
+
 
 ---
 
@@ -90,6 +93,9 @@ Using R, implemented statistics and machine learning to identify what factors le
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 - [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 - [Finance Analysis with SQL](/SQL_banking.md)
+- [Healthcare Analysis with SQL-CLICK HERE](https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
+- 
+
 ---
 
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/sarahamangrum/) [LinkedIn](https://www.linkedin.com/in/sarahamangrum/)
