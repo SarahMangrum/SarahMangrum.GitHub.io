@@ -31,7 +31,7 @@ Using **Tableau**, created interactive dashboard from Massachusetts Department o
 
 #### [The World Bank: An Analysis of Finances Around the Globe-CLICK HERE](/SQL_banking.md)
 
-[<img src="images/Earth Hour (Facebook Post).png?raw=true"/>(The World Bank: An Analysis of Finances Around the Globe)(/SQL_banking.md)]
+[<img src="images/Earth Hour (Facebook Post).png?raw=true"/>](https://github.com/SarahMangrum/SarahMangrum.GitHub.io/blob/master/SQL_banking.md)
 Using SQL, conducted comprehensive financial analysis for the World Bank determining the financial and accounting landscape across the globe 
 
 **Key Skills:** ✅ SELECT* ✅ FROM table_name ✅ LIMIT ✅ AS ✅ WHERE ✅ COUNT ✅ GROUP BY ✅ ORDER BY ✅ MIN/MAX ✅ SUM ✅ AVG ✅ AND/OR/NOT
