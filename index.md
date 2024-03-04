@@ -8,7 +8,7 @@
 
 ---
 
-#### [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
+#### [Marketing Analysis with Excel-CLICK HERE](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 Using **Excel**, analyzed 2000+ rows of customer behavior from an *iFood* dataset to evaluate campaign success levels identifying key insights of the customer population and enabling improved targeting of marketing funds
 
@@ -17,7 +17,7 @@ Using **Excel**, analyzed 2000+ rows of customer behavior from an *iFood* datase
 
 ---
 
-#### [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
+#### [Education Analysis with Tableau-CLICK HERE](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 [<img src="images/Schoolbell.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 Using **Tableau**, created interactive dashboard from Massachusetts Department of Education dataset identifying key performance metrics for 1800+ Massachusetts schools allowing at-a-glance viewing and understanding of the entire program 
 
@@ -35,7 +35,8 @@ Using SQL, conducted comprehensive financial analysis for the World Bank determi
 
 
 ---
-#### [Healthcare Analysis with SQL-Coming Soon]
+#### [Healthcare Analysis with SQL-CLICK HERE](https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
+
 Using SQL, explored 100,000+ rows of patient healthcare data, assessing key factors like hospital equality and duration of hospital stay
 
 **Key Skills:**
