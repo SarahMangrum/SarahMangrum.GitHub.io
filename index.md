@@ -80,20 +80,15 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 ---
 
-### More About Me 
+
 ---
-
-[<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)
-
-[About Me](/AboutMe.md)
-
 ### My Projects
 
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
 - [Education Analysis with Tableau](https://www.linkedin.com/pulse/massachusetts-education-system-review-sarah-mangrum/)
 - [Finance Analysis with SQL](/SQL_banking.md)
 - [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/analyzing-impact-diabetes-hospital-admissions-sarah-mangrum-bmkzc/)
-- 
+  
 
 ---
 
