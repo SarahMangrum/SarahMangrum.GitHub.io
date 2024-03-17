@@ -7,6 +7,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Seeking my first Data Analyst role.<br><br>
   
   <a href="https://www.linkedin.com/in/sarahamangrum/">View My LinkedIn Profile</a> 
-
 theme: jekyll-theme-minimal
+
+### More About Me 
+---
+
+[<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)
+
+[About Me](/AboutMe.md)
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
