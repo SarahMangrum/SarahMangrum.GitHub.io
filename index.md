@@ -79,7 +79,7 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 ---
 
-### More About Me 
+### About Me-CLICK THE IMAGE 
 ---
 
 [<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)
