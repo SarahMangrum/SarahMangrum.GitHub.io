@@ -77,11 +77,16 @@ Using R, implemented statistics and machine learning to identify what factors le
 
 **Key Skills:**
 
-
 ---
 
-
+### More About Me 
 ---
+
+[<img src="images/AboutMeCollage.png?raw=true"/>](/AboutMe.md)
+
+[About Me](/AboutMe.md)
+---
+
 ### My Projects
 
 - [Marketing Analysis with Excel](https://www.linkedin.com/pulse/burgers-friesoh-my-look-food-delivery-sales-sarah-mangrum/)
